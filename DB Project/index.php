@@ -4,9 +4,6 @@
 	<title>LinkUp</title>
 </head>
 <body>
-<h1>LinkUp</h1>
-<ul>
-	<li></li>
-</ul>
+
 </body>
 </html>
